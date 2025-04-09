@@ -19,7 +19,6 @@ int main() {
         else
             odd++;
     }
- 
     cout << "Even: " << even << endl
          << "Odd: " << odd << endl
          << "Positive: " << pos << endl
