@@ -6,6 +6,5 @@ using namespace std;
  
     long long sum = num * (num + 1) / 2; 
     cout << sum;
- 
     return 0;
 }
