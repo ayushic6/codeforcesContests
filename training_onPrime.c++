@@ -8,8 +8,7 @@ int main(){
         isprime=1;
         break;
         }
-    }
-    if(isprime==0)
+    }if(isprime==0)
     cout<<"YES";
     else
     cout<<"NO";
